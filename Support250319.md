@@ -4,7 +4,9 @@
 - Are you sure the Wi-Fi password you’re entering is correct?
 - Does the error appear immediately, or after a delay?
 - Have you tried restarting your laptop or the Wi-Fi router?
+  
 [webiste link](https://support.microsoft.com/en-us/windows/connect-to-a-wi-fi-network-in-windows-1f881677-b569-0cd5-010d-e3cd3579d263)
+
   [another link](https://www.asurion.com/connect/tech-tips/laptop-wont-connect-wifi/)
 
   # wifi connection sites

@@ -32,7 +32,7 @@ The goal is to detect performance issues and monitor resource usage effectively.
 * For Advanced Monitoring: Process Explorer
   
 
-# websites that have a how to procedure of how to Monitorythe function of your computer  
+# websites that have a how to procedure of how to Monitor the function of computer  
 [website 1 ](https://support.microsoft.com/en-us/windows/device-performance-and-health-in-the-windows-security-app-59d8499d-b6fd-6930-7667-ebf8ae10e08d?utm_source=chatgpt.com)
 [website 2](https://systembooster.minitool.com/boost-pc/how-to-check-computer-performance.html?utm_source=chatgpt.com)
 [website 3](https://techcommunity.microsoft.com/blog/askperf/windows-performance-monitor-overview/375481?utm_source=chatgpt.com)

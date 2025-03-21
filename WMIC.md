@@ -5,7 +5,7 @@
   
   [njit](https://njit.io/kb/os/windows/wmic-examples/?utm_source=)
   
-[ad](https://andreafortuna.org/2017/08/09/windows-command-line-cheatsheet-part-2-wmic/?utm_source)
+  [ad](https://andreafortuna.org/2017/08/09/windows-command-line-cheatsheet-part-2-wmic/?utm_source)
 
 
   
